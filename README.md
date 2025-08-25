@@ -10,7 +10,7 @@ cd auth-service
 docker-compose up --build
 ```
 
-## Проверка
+## Проверка в другом терминале
 
 ### 1. Основной эндпоинт
 ```bash
